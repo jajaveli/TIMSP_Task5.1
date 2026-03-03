@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Ivanov_test.cpp">
+    <ClCompile Include="Ivanov_11.4.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Ivanov_9.5.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Ivanov_10.6.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
