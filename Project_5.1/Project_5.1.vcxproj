@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Podolsky_task_7.2.cpp" />
+    <ClCompile Include="Podolsky_task_9.1.cpp" />
     <ClCompile Include="Podolsky_task_6.5.cpp" />
     <ClCompile Include="Podolsky_test.cpp" />
   </ItemGroup>
